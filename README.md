@@ -9,4 +9,4 @@ Food included:
 - Poverty Stew
 
 
-Now hosted at: ajax-dev.github.io/odin-recipes
+Now hosted at: https://ajax-dev.github.io/odin-recipes/
